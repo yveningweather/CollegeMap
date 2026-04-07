@@ -1,5 +1,5 @@
 # Sheridan College Interactive Room Finder
-## Made by Steven Cooper
+## Made by Yvette Merriweather
 
 # Documentation:
 https://livesheridan-my.sharepoint.com/:w:/g/personal/stevencooper_sheridan_edu/ERIB_DqAxW5Aprx-IXatIkoBt7Ac49cYW9QpDbFZZFMk5Q?e=bbgJkF
