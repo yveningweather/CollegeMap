@@ -1,5 +1,5 @@
 # Sheridan College Interactive Room Finder (SCIM)
-## Made by Steven Cooper
+## Made by Yvette Merriweather
 
 Interactive Campus Room finder! Search for a room and find where it is located on campus!
 
